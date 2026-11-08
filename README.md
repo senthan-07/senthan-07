@@ -104,6 +104,12 @@ I'm a **B.Tech Computer Science (Cyber Security)** student at **Shiv Nadar Unive
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senthan-07/senthan-07/output/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senthan-07/senthan-07/output/profile-green.svg" />
+  <img width="100%" alt="3D contribution graph" src="https://raw.githubusercontent.com/senthan-07/senthan-07/output/profile-night-view.svg" />
+</picture>
+
 <img src="https://streak-stats.demolab.com?user=senthan-07&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" />
 
 </div>
