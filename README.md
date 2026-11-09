@@ -94,11 +94,7 @@ I'm a **B.Tech Computer Science (Cyber Security)** student at **Shiv Nadar Unive
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senthan-07/senthan-07/output/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senthan-07/senthan-07/output/profile-green.svg" />
-  <img width="100%" alt="3D contribution graph" src="https://raw.githubusercontent.com/senthan-07/senthan-07/output/profile-night-view.svg" />
-</picture>
+<img width="100%" alt="Contribution graph as an arcade level, with repositories ranked as high scores" src="https://raw.githubusercontent.com/senthan-07/senthan-07/output/arcade.svg" />
 
 </div>
 
